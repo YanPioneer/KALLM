@@ -12,4 +12,4 @@ Under the advice of agricultural experts, we initially identify four prominent a
 ![img](https://github.com/YanPioneer/KALLM/blob/main/image/appendix_differ_model.png)
 
 ## Train
-You can load the data into llm-factory for model training. Please make sure the dependencies are consistent with the LLMs you are using.
+You can load the data into llama-factory for model training. Please make sure the dependencies are consistent with the LLMs you are using.
